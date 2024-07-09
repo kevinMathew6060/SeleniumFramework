@@ -2,58 +2,58 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-07T02:53:20 EDT" name="Suite" finished-at="2024-07-07T02:53:34 EDT" duration-ms="14383">
+  <suite started-at="2024-07-08T00:59:31 EDT" name="Suite" finished-at="2024-07-08T00:59:44 EDT" duration-ms="12118">
     <groups>
     </groups>
-    <test started-at="2024-07-07T02:53:20 EDT" name="Test" finished-at="2024-07-07T02:53:34 EDT" duration-ms="14383">
+    <test started-at="2024-07-08T00:59:31 EDT" name="Test" finished-at="2024-07-08T00:59:44 EDT" duration-ms="12118">
       <class name="com.test.HomeTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-07T02:53:28 EDT" name="setUp" finished-at="2024-07-07T02:53:30 EDT" duration-ms="2264" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-08T00:59:38 EDT" name="setUp" finished-at="2024-07-08T00:59:40 EDT" duration-ms="2093" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyHeading()[pri:0, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-07T02:53:30 EDT" name="verifyHeading" finished-at="2024-07-07T02:53:31 EDT" duration-ms="638" status="PASS">
+        <test-method signature="verifyHeading()[pri:0, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-08T00:59:40 EDT" name="verifyHeading" finished-at="2024-07-08T00:59:40 EDT" duration-ms="559" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHeading -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-07T02:53:31 EDT" name="tearDown" finished-at="2024-07-07T02:53:31 EDT" duration-ms="171" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-08T00:59:40 EDT" name="tearDown" finished-at="2024-07-08T00:59:41 EDT" duration-ms="128" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-07T02:53:31 EDT" name="setUp" finished-at="2024-07-07T02:53:33 EDT" duration-ms="2038" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-08T00:59:41 EDT" name="setUp" finished-at="2024-07-08T00:59:43 EDT" duration-ms="2260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyProduct()[pri:1, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-07T02:53:33 EDT" name="verifyProduct" finished-at="2024-07-07T02:53:33 EDT" duration-ms="572" status="PASS">
+        <test-method signature="verifyProduct()[pri:1, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-08T00:59:43 EDT" name="verifyProduct" finished-at="2024-07-08T00:59:43 EDT" duration-ms="557" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyProduct -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-07T02:53:33 EDT" name="tearDown" finished-at="2024-07-07T02:53:34 EDT" duration-ms="512" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.HomeTest@15bb5034]" started-at="2024-07-08T00:59:43 EDT" name="tearDown" finished-at="2024-07-08T00:59:44 EDT" duration-ms="193" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.test.HomeTest -->
       <class name="com.test.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-07T02:53:20 EDT" name="setUp" finished-at="2024-07-07T02:53:24 EDT" duration-ms="4859" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-08T00:59:32 EDT" name="setUp" finished-at="2024-07-08T00:59:35 EDT" duration-ms="3404" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLoginTest()[pri:0, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-07T02:53:24 EDT" name="verifyLoginTest" finished-at="2024-07-07T02:53:25 EDT" duration-ms="89" status="PASS">
+        <test-method signature="verifyLoginTest()[pri:0, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-08T00:59:35 EDT" name="verifyLoginTest" finished-at="2024-07-08T00:59:35 EDT" duration-ms="63" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-07T02:53:25 EDT" name="tearDown" finished-at="2024-07-07T02:53:25 EDT" duration-ms="253" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-08T00:59:35 EDT" name="tearDown" finished-at="2024-07-08T00:59:35 EDT" duration-ms="142" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-07T02:53:25 EDT" name="setUp" finished-at="2024-07-07T02:53:27 EDT" duration-ms="2476" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-08T00:59:35 EDT" name="setUp" finished-at="2024-07-08T00:59:37 EDT" duration-ms="2312" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyError()[pri:1, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-07T02:53:27 EDT" name="verifyError" finished-at="2024-07-07T02:53:27 EDT" duration-ms="219" status="PASS">
+        <test-method signature="verifyError()[pri:1, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-08T00:59:37 EDT" name="verifyError" finished-at="2024-07-08T00:59:38 EDT" duration-ms="172" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyError -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-07T02:53:27 EDT" name="tearDown" finished-at="2024-07-07T02:53:28 EDT" duration-ms="215" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.LoginTest@7d0b7e3c]" started-at="2024-07-08T00:59:38 EDT" name="tearDown" finished-at="2024-07-08T00:59:38 EDT" duration-ms="147" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
